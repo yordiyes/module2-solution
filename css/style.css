@@ -18,6 +18,7 @@
         position: relative;
         padding: 15px;
         width: 90%;
+       border: 3.5px solid black;
     }
 
     p {
@@ -28,7 +29,6 @@
     div {
         position: relative;
         background-color: gray;
-        border: 3.5px solid black;
         width: 100%;
         margin-left: auto;
         margin-right: auto;
